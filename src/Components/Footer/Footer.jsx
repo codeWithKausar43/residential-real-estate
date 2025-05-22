@@ -39,16 +39,16 @@ const Footer = () => {
             <div className="flex gap-4 items-center">
               <FiPhoneCall className={getTouchBtn} />
               <div className="grid grid-cols-1 gap-1">
-                <a href="tel:+8801303436299" className={footerBtns}>+880 13034-36299</a>
-                <a href="tel:+8801934160934" className={footerBtns}>+880 1934-160934</a>
+                <a href="tel:+8801835234869" className={footerBtns}>+880 1835234869</a>
+                <a href="tel:+8801627768497" className={footerBtns}>+880 1627768497</a>
               </div>
             </div>
 
             <div className="flex gap-4 items-center">
               <IoMailUnreadOutline className={getTouchBtn} />
               <div className="grid grid-cols-1 gap-1">
-                <a href="mailto:sdsujoy920243@gmail.com" className={footerBtns}>sdsujoy920243@gmail.com</a>
-                <a href="mailto:sujoydaspc2023@gmail.com" className={footerBtns}>sujoydaspc2023@gmail.com</a>
+                <a href="mailto:kausar.a.pro@gmail.com" className={footerBtns}>kausar.a.pro@gmail.com</a>
+                <a href="mailto:kausar.a.pro@gmail.com" className={footerBtns}>kausar.a.pro@gmail.com</a>
               </div>
             </div>
           </div>
@@ -85,12 +85,12 @@ const Footer = () => {
 
       <div className="bg-secondary md:px-0 px-5">
         <div className=" py-5 flex justify-between items-center md:flex-row flex-col gap-2 max-w-7xl mx-auto">
-          <h1>&copy;  2025 By <Link to={"https://www.facebook.com/sujoydas36"} className="font-semibold">Sujoy Das</Link>. All Rights Reserved.</h1>
+          <h1>&copy;  2025 By <Link to={"https://www.facebook.com/sujoydas36"} className="font-semibold">Kausar Ahammed</Link>. All Rights Reserved.</h1>
           <div className="flex gap-4">
-            <Link to={"https://www.facebook.com/sujoydas36"}> <FaFacebookF className={socialBtnStyle} /></Link>
-            <Link to={"https://www.youtube.com/@techuniverseai36"}><FaYoutube className={socialBtnStyle} /></Link>
-            <Link to={"https://github.com/devsujoy36"}><FiGithub className={socialBtnStyle} /></Link>
-            <Link to={"https://www.instagram.com/sdsujoy920243"}><FaInstagram className={socialBtnStyle} /></Link>
+            <Link target="_blank" to={"https://www.facebook.com/mdkausar.ahammed.925"}> <FaFacebookF className={socialBtnStyle} /></Link>
+            <Link target="_blank" to={"https://www.youtube.com/feed/you"}><FaYoutube className={socialBtnStyle} /></Link>
+            <Link target="_blank" to={"https://github.com/codeWithKausar43"}><FiGithub className={socialBtnStyle} /></Link>
+            <Link target="_blank" to={"https://www.instagram.com/mdkausar.ahammed.925/"}><FaInstagram className={socialBtnStyle} /></Link>
           </div>
         </div>
       </div>

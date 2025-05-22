@@ -39,7 +39,7 @@ const AboutUs = () => {
             <div className="md:relative space-y-4 md:w-1/2 ">
               <FiPhoneCall className="bg-[#0D0D0C] w-12 h-12 p-3 rounded-full text-white active:scale-95 duration-500 transition-all" />
               <h1 >Call Us 24/7</h1>
-              <a href="tel:+8801303436299" className="hover:text-yellow-400 text-2xl font-semibold transition-all duration-500 flex items-center gap-2">+880 13034-36299</a>
+              <a href="tel:+8801303436299" className="hover:text-yellow-400 text-2xl font-semibold transition-all duration-500 flex items-center gap-2">+880 1835234869</a>
               <img className="absolute lg:block hidden md:-right-14 md:top-20 right-0 top-0 aboutus-rotator" id="" src="https://wordpress.themeholy.com/realar/wp-content/uploads/2024/05/section_shape_2_1-1.png" alt="" />
             </div>
 
